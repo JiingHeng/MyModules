@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="MondayModule">C203 Web Application Development in php</string>
+    <string name="TuesdayModule">C346 Mobile App Development</string>
+    <string name="WednesdayModule">C235 IT Security and Management</string>
+    <string name="ThursdayModule">C206 Software Development Process</string>
+    <string name="FridayModule">C218 UI/UX Design for Apps</string>
+</resources>
